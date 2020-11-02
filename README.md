@@ -1,1 +1,1 @@
-# Qualis and H-5 index for Computer Science Conferences
+# Qualis and H-5 indexes for Computer Science Conferences
