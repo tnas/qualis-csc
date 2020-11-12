@@ -72,7 +72,6 @@ def load_database(conn, excel, year, previous_year):
 
 
 def parser(event, context):
-    print('passei')
     record = event['Records'][0]
     bucket_name = record['s3']['bucket']['name']
     file_name = record['s3']['object']['key']
